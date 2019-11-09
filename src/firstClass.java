@@ -5,5 +5,9 @@ public class firstClass {
         if(true){
             System.out.println("Second line");
         }
+
+        for(;;){
+            
+        }
     }
 }
