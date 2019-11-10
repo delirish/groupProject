@@ -7,7 +7,6 @@ public class firstClass {
         }
 
         for(;;){
-            System.out.println("Hello World!");
             
         }
     }
